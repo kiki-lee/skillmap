@@ -4,8 +4,8 @@
 * infoUrl: skillmap/educator-info/galaxy-map-info
 * bannerUrl: /static/skillmap/galaxy/galaxy6.gif
 * backgroundurl: /static/skillmap/backgrounds/space-comp.png
-* primarycolor: #aa44fb
-* secondarycolor: #ffdea0
+* primarycolor: #ffba87
+* secondarycolor: #ff07d9
 * tertiarycolor: #ffffff
 * highlightcolor: #ff0081
 * completednodecolor: #31125d
