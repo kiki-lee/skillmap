@@ -2,7 +2,7 @@
 * name: Save the Galaxy
 * description: Make a Galaga-style game by following this short series of tutorials. You will create a rocket that fires projectiles at enemies, design your outerspace view, create amazing animations, and MORE!  What are you waiting for?  Double-click the first level to begin!
 * infoUrl: skillmap/educator-info/galaxy-map-info
-* bannerUrl: /static/skillmap/galaxy/galaxy6.gif
+* bannerUrl: /static/skillmap/galaxy/galaxyt6.gif
 * backgroundurl: https://github.com/kiki-lee/beg-split/blob/master/galaxy-comp.png?raw=true
 * primarycolor: #ffa000
 * secondarycolor: #ff07d9
