@@ -55,7 +55,7 @@
 * next: galaxy-cert-1
 * url: /test/skillmap/galaxy/galaxy4a
 * imageUrl: /static/skillmap/galaxy/galaxy4a.gif
-* position: 2 0
+* position: 4 2
 
 
 
@@ -66,7 +66,7 @@
 * type: certificate
 * imageUrl: /static/skillmap/certificates/galaxy-cert.png
 * url: /static/skillmap/certificates/galaxy-cert.pdf
-* position: 5 0
+* position: 4 0
 * actions:
     * map: [Try 80s Rockstar Maze](/skillmap/rockstar)
     * map: [Try Jungle Jump](/skillmap/jungle)
