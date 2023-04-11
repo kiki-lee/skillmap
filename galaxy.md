@@ -4,11 +4,11 @@
 * infoUrl: skillmap/educator-info/galaxy-map-info
 * bannerUrl: /static/skillmap/galaxy/galaxy6.gif
 * backgroundurl: /static/skillmap/backgrounds/space-comp.png
-* primarycolor: #2EA9B0
-* secondarycolor: #d6f7fa
-* tertiarycolor: #5d416b
-* highlightcolor: #FFFFFF
-* completednodecolor: #504c52
+* primarycolor: #aa44fb
+* secondarycolor: #ffdea0
+* tertiarycolor: #ffffff
+* highlightcolor: #ff0081
+* completednodecolor: #31125d
 * tags: intermediate, space, projectiles
 * alternatesources: github:https://github.com/microsoft/pxt-skillmap-sample/skillmap.md
 
@@ -35,7 +35,7 @@
 * next: galaxy3
 * url: /test/skillmap/galaxy/galaxy2
 * imageUrl: /static/skillmap/galaxy/galaxy2.gif
-* position: 0 2
+* position: 0 3
 
 ### galaxy3
 * name: Here Comes Trouble!
@@ -45,7 +45,7 @@
 * next: galaxy4
 * url: /test/skillmap/galaxy/galaxy3
 * imageUrl: /static/skillmap/galaxy/galaxy3.gif
-* position: 2 2
+* position: 2 3
 
 ### galaxy4
 * name: All Shook Up
@@ -55,7 +55,7 @@
 * next: galaxy-cert-1
 * url: /test/skillmap/galaxy/galaxy4a
 * imageUrl: /static/skillmap/galaxy/galaxy4a.gif
-* position: 4 2
+* position: 4 3
 
 
 
