@@ -42,7 +42,7 @@
 * description: Make sure to transmit the information you need to send, but don't get hit by asteroids.
 * type: tutorial
 * tags: intermediate, enemies, kinds
-* next: galaxy4
+* next: galaxy-cert-1
 * url: /test/skillmap/galaxy/galaxy3
 * imageUrl: /static/skillmap/galaxy/galaxy3.gif
 * position: 4 3
