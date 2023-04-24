@@ -24,7 +24,7 @@
 * tags: easy, sprites, scroller
 * next: galaxy2
 * url: /test/skillmap/galaxy/galaxy1
-* imageUrl: /static/skillmap/galaxy/galaxy1.gif
+* imageUrl: /static/skillmap/galaxy/galaxy1-trimmed.gif
 * position: 0 0
 
 ### galaxy2
@@ -34,7 +34,7 @@
 * tags: easy, projectiles, kinds
 * next: galaxy3
 * url: /test/skillmap/galaxy/galaxy2
-* imageUrl: /static/skillmap/galaxy/galaxy2.gif
+* imageUrl: /static/skillmap/galaxy/galaxy2-trimmed.gif
 * position: 0 3
 
 ### galaxy3
@@ -44,7 +44,7 @@
 * tags: intermediate, enemies, kinds
 * next: galaxy-cert-1
 * url: /test/skillmap/galaxy/galaxy3
-* imageUrl: /static/skillmap/galaxy/galaxy3.gif
+* imageUrl: /static/skillmap/galaxy/galaxy3-trimmed.gif
 * position: 4 3
 
 
