@@ -11,7 +11,10 @@
         "README.md",
         "assets.json",
         "galaxy.md",
-        "music.md"
+        "music.md",
+        "galaxy-info.md",
+        "star-info.md",
+        "racer.md"
     ],
     "testFiles": [
         "test.ts"
