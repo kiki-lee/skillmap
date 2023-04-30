@@ -3,7 +3,7 @@
 * description: Learn to create a clicker game and quickly rack up the points as you applaud the most talented animals.
 * infoUrl: skillmap/educator-info/star-map-info
 * bannerUrl: /static/skillmap/star/star4.gif
-* backgroundurl: /static/skillmap/backgrounds/star-comp.png
+* backgroundurl: https://github.com/kiki-lee/skillmap/blob/master/star-comp.png?raw=true
 * primarycolor: #ff7f41
 * secondarycolor: #fff53d
 * tertiarycolor: #000000
