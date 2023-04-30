@@ -4,11 +4,11 @@
 * infoUrl: skillmap/educator-info/adventure-info
 * bannerUrl: /static/skillmap/adventure/dd-logo.png
 * backgroundurl: https://github.com/kiki-lee/skillmap/blob/master/adventure-comp.png?raw=true
-* primarycolor: #ffffff
-* secondarycolor: #fff53d
+* primarycolor: #ffe19b
+* secondarycolor: #ff8eca
 * tertiarycolor: #b1dcef
-* completednodecolor: #2f484d
-* highlightcolor: #ff0000
+* completednodecolor: #00224b
+* highlightcolor: #ffffff
 * allowcodecarryover: true
 * tags: creative, intermediate, conditionals
 
