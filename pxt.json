@@ -15,7 +15,8 @@
         "galaxy-info.md",
         "star-info.md",
         "racer.md",
-        "adventure.md"
+        "adventure.md",
+        "star.md"
     ],
     "testFiles": [
         "test.ts"
