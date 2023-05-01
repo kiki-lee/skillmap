@@ -1,9 +1,9 @@
 # Text-Adventure
 * name: Code an Adventure
-* description: Code your own text-based adventure inspired by the movie Dungeons & Dragons: Honor Among Thieves
+* description: Code your own text-based adventure complete with its own theme song!
 * infoUrl: skillmap/educator-info/adventure-info
 * bannerUrl: /static/skillmap/adventure/adventure3.gif
-* backgroundurl: https://github.com/kiki-lee/skillmap/blob/master/adventure-comp.png?raw=true
+* backgroundurl: /static/skillmap/backgrounds/adventure-comp.png
 * primarycolor: #ffe19b
 * secondarycolor: #ff8eca
 * tertiarycolor: #b1dcef
@@ -22,24 +22,24 @@
 
 * name: Start Your Journey
 * type: tutorial
-* description: Create an adventure using conditionals
+* description: Create a text-based adventure using conditionals!
 * tags: conditionals, text
 * next: adventure2
-* url: /test/skillmap/adventure/adventure1
-* imageUrl: /static/skillmap/adventure/owlbear.png
-* position: 0 -2
+* url: /skillmap/adventure/adventure1
+* imageUrl: /static/skillmap/adventure/adventure1.gif
+* position: 1 2
 
 
 
 ### adventure2
 * name: Make it Spectacular
 * type: tutorial
-* description: Create your own music and images to enhance out your adventure!
+* description: Create your own music and images to enhance your adventure!
 * tags: music, functions
 * next: adventure3
-* url: /test/skillmap/adventure/adventure2
-* imageUrl: /static/skillmap/adventure/bard.png
-* position: 1 -2
+* url: /skillmap/adventure/adventure2
+* imageUrl: /static/skillmap/adventure/adventure2.gif
+* position: 0 -2
 
 
 ### adventure3
@@ -48,9 +48,9 @@
 * description: Finish your game by adding more quests — including danger and rewards!
 * tags: lives, score, functions
 * next: adventure-cert
-* url: /test/skillmap/adventure/adventure3
-* imageUrl: /static/skillmap/adventure/mimic.png
-* position: 1 -1
+* url: /skillmap/adventure/adventure3
+* imageUrl: /static/skillmap/adventure/adventure3.gif
+* position: 1 -2
 
 
 
