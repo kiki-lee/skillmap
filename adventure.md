@@ -2,7 +2,7 @@
 * name: Code an Adventure
 * description: Code your own text-based adventure inspired by the movie Dungeons & Dragons: Honor Among Thieves
 * infoUrl: skillmap/educator-info/adventure-info
-* bannerUrl: /static/skillmap/adventure/dd-logo.png
+* bannerUrl: /static/skillmap/adventure/adventure3.gif
 * backgroundurl: https://github.com/kiki-lee/skillmap/blob/master/adventure-comp.png?raw=true
 * primarycolor: #ffe19b
 * secondarycolor: #ff8eca
