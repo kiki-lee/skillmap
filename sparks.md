@@ -26,7 +26,7 @@
 * next: sparks2
 * url: /skillmap/sparks/sparks1
 * imageUrl: /static/skillmap/sparks/sparks1.gif
-* position: 0 0
+* position: 0 -2
 
 
 
@@ -38,7 +38,7 @@
 * next: sparks-cert
 * url: /skillmap/sparks/sparks2
 * imageUrl: /static/skillmap/sparks/sparks2.gif
-* position: 1 0
+* position: 1 -2
 
 <!--
 ### sparks3
@@ -71,7 +71,7 @@
 * url: /static/skillmap/certificates/sparks-cert.pdf
 * imageUrl: /static/skillmap/certificates/sparks-cert.png
 * showMultiplayerShare: true
-* position: 2 0
+* position: 2 -2
 * actions:
     * map: [Try Burstin' Balloons](/skillmap/balloon)
     * editor: [Open in Creative Mode](/)
