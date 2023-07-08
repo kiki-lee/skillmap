@@ -26,7 +26,7 @@
 * next: sparks2
 * url: /skillmap/sparks/sparks1
 * imageUrl: /static/skillmap/sparks/sparks1.gif
-* position: -1 1
+* position: 0 0
 
 
 
@@ -35,12 +35,12 @@
 * type: tutorial
 * description: Add code to include some win and loss options to your amazing clicker game.
 * tags: easy, events, win, loss
-* next: sparks3
+* next: sparks-cert
 * url: /skillmap/sparks/sparks2
 * imageUrl: /static/skillmap/sparks/sparks2.gif
-* position: 0 1
+* position: 1 0
 
-
+<!--
 ### sparks3
 * name: Get Animated
 * type: tutorial
@@ -62,7 +62,7 @@
 * url: /skillmap/sparks/sparks4
 * imageUrl: /static/skillmap/sparks/sparks3.gif
 * position: 1 0
-
+-->
 
 ### sparks-cert
 * name: Congrats!
