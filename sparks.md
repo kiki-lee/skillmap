@@ -2,12 +2,12 @@
 * name: Sparks Flying
 * description: Set in prehistoric Israel, this tutorial will help you create a game that challenges you to light a fire to keep yourself warm, but be careful! It's not as easy as it sounds!  Double-click the first level to begin.
 * infoUrl: skillmap/educator-info/spark-map-info
-* bannerUrl: /static/skillmap/spark/spark4.gif
+* bannerUrl: /static/skillmap/sparks/spark4.gif
 * backgroundurl: /static/skillmap/backgrounds/sparks-comp.png
 * primarycolor: #ffffff
 * secondarycolor: #fff53d
-* tertiarycolor: #82cd54
-* completednodecolor: #604c4e
+* tertiarycolor: #93fffb
+* completednodecolor: #267a85
 * highlightcolor: #ff0000
 * allowcodecarryover: true
 * tags: prehistoric, educational, clicker
@@ -80,5 +80,5 @@
         * url: /static/skillmap/certificates/sparks-cert.pdf
         * preview: /static/skillmap/certificates/sparks-cert.png
     * completion-badge:
-        * image: /static/badges/sparks-mole.png
+        * image: /static/badges/badge-sparks.png
         * name: Sparks Flying
