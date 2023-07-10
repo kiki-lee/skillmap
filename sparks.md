@@ -2,7 +2,7 @@
 * name: Sparks Flying
 * description: Set in prehistoric Israel, this tutorial will help you create a game that challenges you to light a fire to keep yourself warm, but be careful! It's not as easy as it sounds!  Double-click the first level to begin.
 * infoUrl: skillmap/educator-info/spark-map-info
-* bannerUrl: /static/skillmap/sparks/campfire.gif
+* bannerUrl: https://github.com/kiki-lee/skillmap/blob/master/campfire.gif?raw=true
 * backgroundurl: /static/skillmap/backgrounds/sparks-comp.png
 * primarycolor: #ffffff
 * secondarycolor: #ffb200
