@@ -3,7 +3,7 @@
 * description: Make a Galaga-style game by following this short series of tutorials. You will create a rocket that transmits information to satellites, dodge asteroids, create amazing animations, and MORE!  What are you waiting for?  Double-click the first level to begin!
 * infoUrl: skillmap/educator-info/galaxy-map-info
 * bannerUrl: /static/skillmap/galaxy/galaxy3.gif
-* backgroundurl: https://github.com/kiki-lee/skillmap/blob/master/galaxy-comp1.png?raw=true
+* backgroundurl: /static/skillmap/backgrounds/galaxy-comp.png
 * primarycolor: #ffa000
 * secondarycolor: #ff07d9
 * tertiarycolor: #ffffff
@@ -23,7 +23,7 @@
 * description: Get your spaceship ready for an adventure!
 * tags: easy, sprites, scroller
 * next: galaxy2
-* url: /test/skillmap/galaxy/galaxy1
+* url: /skillmap/galaxy/galaxy1
 * imageUrl: /static/skillmap/galaxy/galaxy1.gif
 * position: 0 1
 
@@ -33,7 +33,7 @@
 * description: Equip your ship with projectiles to update satellites.
 * tags: easy, projectiles, kinds, overlaps
 * next: galaxy3
-* url: /test/skillmap/galaxy/galaxy2
+* url: /skillmap/galaxy/galaxy2
 * imageUrl: /static/skillmap/galaxy/galaxy2.gif
 * position: 0 3
 
@@ -43,7 +43,7 @@
 * type: tutorial
 * tags: intermediate, collisions, kinds, animations
 * next: galaxy-cert-1
-* url: /test/skillmap/galaxy/galaxy3
+* url: /skillmap/galaxy/galaxy3
 * imageUrl: /static/skillmap/galaxy/galaxy3.gif
 * position: 4 3
 
