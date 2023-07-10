@@ -3,7 +3,7 @@
 * description: Set in prehistoric Israel, this tutorial will help you create a game that challenges you to light a fire to keep yourself warm, but be careful! It's not as easy as it sounds!  Double-click the first level to begin.
 * infoUrl: skillmap/educator-info/spark-map-info
 * bannerUrl: /static/skillmap/spark/spark4.gif
-* backgroundurl: /static/skillmap/backgrounds/spark-comp.png
+* backgroundurl: /static/skillmap/backgrounds/sparks-comp.png
 * primarycolor: #ffffff
 * secondarycolor: #fff53d
 * tertiarycolor: #82cd54
