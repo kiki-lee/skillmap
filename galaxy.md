@@ -25,7 +25,7 @@
 * next: galaxy2
 * url: /test/skillmap/galaxy/galaxy1
 * imageUrl: /static/skillmap/galaxy/galaxy1.gif
-* position: 0 0
+* position: 0 1
 
 ### galaxy2
 * name: Communication is Key!
@@ -55,7 +55,7 @@
 * type: certificate
 * imageUrl: /static/skillmap/certificates/galaxy-cert.png
 * url: /static/skillmap/certificates/galaxy-cert.pdf
-* position: 4 0
+* position: 4 1
 * actions:
     * map: [Try 80s Rockstar Maze](/skillmap/rockstar)
     * map: [Try Jungle Jump](/skillmap/jungle)
