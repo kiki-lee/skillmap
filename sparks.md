@@ -26,7 +26,7 @@
 * next: sparks2
 * url: /test/skillmap/sparks/sparks1
 * imageUrl: /static/skillmap/sparks/sparks1.gif
-* position: 0 -2
+* position: -1 1
 
 
 
@@ -38,9 +38,9 @@
 * next: sparks-cert
 * url: /test/skillmap/sparks/sparks2
 * imageUrl: /static/skillmap/sparks/sparks2.gif
-* position: 1 -2
+* position: -1 0
 
-<!--
+
 ### sparks3
 * name: Get Animated
 * type: tutorial
@@ -49,7 +49,7 @@
 * next: sparks4
 * url: /skillmap/sparks/sparks3
 * imageUrl: /static/skillmap/sparks/sparks3.gif
-* position: 1 1
+* position: 0 0
 
 
 
@@ -71,7 +71,67 @@
 * url: /static/skillmap/certificates/sparks-cert.pdf
 * imageUrl: /static/skillmap/certificates/sparks-cert.png
 * showMultiplayerShare: true
-* position: 2 -2
+* position: -1 -1
+* actions:
+    * map: [Try Burstin' Balloons](/skillmap/balloon)
+    * editor: [Open in Creative Mode](/)
+* rewards:
+    * certificate:
+        * url: /static/skillmap/certificates/sparks-cert.pdf
+        * preview: /static/skillmap/certificates/sparks-cert.png
+    * completion-badge:
+        * image: /static/badges/badge-sparks.png
+        * name: Sparks Flying
+
+
+### sparks-cert2
+* name: Congrats!
+* kind: completion
+* type: certificate
+* url: /static/skillmap/certificates/sparks-cert.pdf
+* imageUrl: /static/skillmap/certificates/sparks-cert.png
+* showMultiplayerShare: true
+* position: 0 -1
+* actions:
+    * map: [Try Burstin' Balloons](/skillmap/balloon)
+    * editor: [Open in Creative Mode](/)
+* rewards:
+    * certificate:
+        * url: /static/skillmap/certificates/sparks-cert.pdf
+        * preview: /static/skillmap/certificates/sparks-cert.png
+    * completion-badge:
+        * image: /static/badges/badge-sparks.png
+        * name: Sparks Flying
+
+
+### sparks-cert3
+* name: Congrats!
+* kind: completion
+* type: certificate
+* url: /static/skillmap/certificates/sparks-cert.pdf
+* imageUrl: /static/skillmap/certificates/sparks-cert.png
+* showMultiplayerShare: true
+* position: 1 -1
+* actions:
+    * map: [Try Burstin' Balloons](/skillmap/balloon)
+    * editor: [Open in Creative Mode](/)
+* rewards:
+    * certificate:
+        * url: /static/skillmap/certificates/sparks-cert.pdf
+        * preview: /static/skillmap/certificates/sparks-cert.png
+    * completion-badge:
+        * image: /static/badges/badge-sparks.png
+        * name: Sparks Flying
+
+
+### sparks-cert4
+* name: Congrats!
+* kind: completion
+* type: certificate
+* url: /static/skillmap/certificates/sparks-cert.pdf
+* imageUrl: /static/skillmap/certificates/sparks-cert.png
+* showMultiplayerShare: true
+* position: 1 1
 * actions:
     * map: [Try Burstin' Balloons](/skillmap/balloon)
     * editor: [Open in Creative Mode](/)

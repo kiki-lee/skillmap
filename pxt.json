@@ -18,13 +18,15 @@
         "adventure.md",
         "star.md",
         "pizza.md",
-        "sparks.md"
+        "sparks.md",
+        "sparks-info.md",
+        "class.md"
     ],
     "testFiles": [
         "test.ts"
     ],
     "targetVersions": {
-        "target": "1.12.32",
+        "target": "1.12.41",
         "targetId": "arcade"
     },
     "supportedTargets": [
