@@ -51,7 +51,7 @@
 * type: certificate
 * url: /static/skillmap/certificates/class-cert.pdf
 * imageUrl: /static/skillmap/certificates/class-cert.png
-* position: 4 -2
+* position: 4 -1
 * actions:
     * map: [Try Space Explorer](/skillmap/space)
     * editor: [Mod this project](/)
