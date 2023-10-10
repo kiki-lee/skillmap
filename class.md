@@ -44,7 +44,7 @@
 * imageUrl: /static/skillmap/class/class3.gif
 * next: class-finish
 * position: 3 -2
-* edge: 4 -2
+* edges: 4 -2
 
 
 ### class-finish
