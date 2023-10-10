@@ -33,7 +33,7 @@
 * tags: easy, tiles, events
 * imageUrl: /static/skillmap/class/class2.gif
 * next: class3
-* position: 1 -1
+* position: 1 -2
 
 ### class3
 * name: Avoid the Teacher!
