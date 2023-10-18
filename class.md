@@ -33,7 +33,7 @@
 * tags: easy, enemies, overlaps, timer
 * imageUrl: /static/skillmap/class/class2.gif
 * next: class3
-* position: 1 -2
+* position: 0 -2
 
 ### class3
 * name: Finish Your Homework
@@ -43,7 +43,7 @@
 * tags: easy, overlap, score, timer
 * imageUrl: /static/skillmap/class/class3.gif
 * next: class4
-* position: 3 -2
+* position: 1 -2
 
 
 ### class4
@@ -54,14 +54,14 @@
 * tags: easy, animation
 * imageUrl: /static/skillmap/class/class4.gif
 * next: class-finish
-* position: 4 -2
+* position: 2 -2
 
 ### class-finish
 * kind: completion
 * type: certificate
 * url: /static/skillmap/certificates/class-cert.pdf
 * imageUrl: /static/skillmap/certificates/class-cert.png
-* position: 4 -1
+* position: 2 -1
 * actions:
     * map: [Try Space Explorer](/skillmap/space)
     * editor: [Mod this project](/)
