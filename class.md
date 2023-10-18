@@ -1,6 +1,6 @@
 # Miss Kiki's Class
 * name: Miss Kiki's Class
-* description: Create a fast-paced maze game by programming a student to move through the crowded halls to collect assignments without being interrupted by a teacher trying to give them more work!
+* description: Create a fast-paced maze game by programming a student to move through the crowded halls to collect assignments without being interrupted by a teacher!
 * infoUrl: skillmap/educator-info/class-map-info
 * backgroundurl: /static/skillmap/backgrounds/class-comp.png
 * bannerurl: /static/skillmap/class/class.gif
@@ -20,32 +20,41 @@
 * type: tutorial
 * description: Add a student to the halls of the school, then keep an eye on them as they move around!
 * url: /test/skillmap/class/class1
-* tags: easy, sprites, tiles
+* tags: easy, sprites, movement
 * imageUrl: /static/skillmap/class/class1.gif
 * next: class2
 * position: 0 -1
 
 ### class2
-* name: All the Assignments
+* name: Escape Miss Kiki
 * type: tutorial
-* description: Write the code to help the student collect assignments to win the game.
+* description: Try not to run into the teacher or she'll steal your time!
 * url: /test/skillmap/class/class2
-* tags: easy, tiles, events
+* tags: easy, enemies, overlaps, timer
 * imageUrl: /static/skillmap/class/class2.gif
 * next: class3
 * position: 1 -2
 
 ### class3
-* name: Avoid the Teacher!
+* name: Finish Your Homework
 * type: tutorial
-* description: Add teachers to try to slow you down on your way out the door!
+* description: Add a feature that lets you win the game when you collect all your assignments. 
 * url: /test/skillmap/class/class3
-* tags: easy, enemies, overlap, lives
+* tags: easy, overlap, score, timer
 * imageUrl: /static/skillmap/class/class3.gif
-* next: class-finish
+* next: class4
 * position: 3 -2
-* edges: 4 -2
 
+
+### class4
+* name: Get Animated!
+* type: tutorial
+* description: Animate your student so they appear to move when they walk.
+* url: /test/skillmap/class/class4
+* tags: easy, animation
+* imageUrl: /static/skillmap/class/class4.gif
+* next: class-finish
+* position: 4 -2
 
 ### class-finish
 * kind: completion
