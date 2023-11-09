@@ -3,7 +3,7 @@
 * description: Code your own text-based adventure complete with its own theme song!
 * infoUrl: skillmap/educator-info/adventure-info
 * bannerUrl: /static/skillmap/adventure/adventure3.gif
-* backgroundurl: /static/skillmap/backgrounds/adventure-comp.png
+* backgroundurl: https://github.com/kiki-lee/skillmap/blob/master/adventure-comp.png?raw=true
 * primarycolor: #ffe19b
 * secondarycolor: #ff8eca
 * tertiarycolor: #173a71
