@@ -3,11 +3,11 @@
 * description: Code your own text-based adventure complete with its own theme song!
 * infoUrl: skillmap/educator-info/adventure-info
 * bannerUrl: /static/skillmap/adventure/adventure3.gif
-* backgroundurl: https://github.com/kiki-lee/skillmap/blob/master/adventure.png?raw=true
-* primarycolor: #ffe19b
-* secondarycolor: #ff8eca
-* tertiarycolor: #173a71
-* completednodecolor: #00224b
+* backgroundurl: https://github.com/kiki-lee/skillmap/blob/master/adventure-comp2.png?raw=true
+* primarycolor: #8c281d
+* secondarycolor: #eee6cb
+* tertiarycolor: #004b87
+* completednodecolor: #202c1b
 * highlightcolor: #ffffff
 * allowcodecarryover: true
 * tags: creative, intermediate, conditionals
