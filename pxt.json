@@ -20,7 +20,9 @@
         "pizza.md",
         "sparks.md",
         "sparks-info.md",
-        "class.md"
+        "class.md",
+        "adventure.md",
+        "shark.md"
     ],
     "testFiles": [
         "test.ts"
