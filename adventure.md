@@ -6,7 +6,7 @@
 * backgroundurl: /static/skillmap/backgrounds/adventure-comp.png
 * primarycolor: #ffe19b
 * secondarycolor: #ff8eca
-* tertiarycolor: #b1dcef
+* tertiarycolor: #173a71
 * completednodecolor: #00224b
 * highlightcolor: #ffffff
 * allowcodecarryover: true
