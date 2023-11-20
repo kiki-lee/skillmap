@@ -22,7 +22,8 @@
         "sparks-info.md",
         "class.md",
         "adventure.md",
-        "shark.md"
+        "shark.md",
+        "day1.md"
     ],
     "testFiles": [
         "test.ts"
