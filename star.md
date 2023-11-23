@@ -50,7 +50,7 @@
 * next: star-activity4
 * url: /test/skillmap/star/star3
 * imageUrl: /static/skillmap/star/star3.gif
-* position: 1 1
+* position: 1 -1
 
 
 ### star-activity4
@@ -61,7 +61,7 @@
 * next: star-cert
 * url: /test/skillmap/star/star4
 * imageUrl: /static/skillmap/star/star4.gif
-* position: 2 1
+* position: 2 -1
 
 
 ### star-cert
@@ -70,7 +70,7 @@
 * type: certificate
 * url: /static/skillmap/certificates/star-cert.pdf
 * imageUrl: /static/skillmap/certificates/star-cert.png
-* position: 3 1
+* position: 3 -1
 * actions:
     * map: [Try Mama Dino](/skillmap/dino)
     * editor: [Edit in creative mode](/)
