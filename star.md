@@ -6,7 +6,7 @@
 * backgroundurl: https://github.com/kiki-lee/skillmap/blob/master/star-comp.png?raw=true
 * primarycolor: #ff7f41
 * secondarycolor: #fff53d
-* tertiarycolor: #000000
+* tertiarycolor: #17001d
 * completednodecolor: #4d3740
 * highlightcolor: #ffffff
 * allowcodecarryover: true
