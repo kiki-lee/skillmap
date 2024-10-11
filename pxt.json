@@ -22,13 +22,14 @@
         "sparks-info.md",
         "class.md",
         "adventure.md",
-        "shark.md"
+        "shark.md",
+        "lab1.md"
     ],
     "testFiles": [
         "test.ts"
     ],
     "targetVersions": {
-        "target": "1.12.46",
+        "target": "1.12.56",
         "targetId": "arcade"
     },
     "supportedTargets": [
