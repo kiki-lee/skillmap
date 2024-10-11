@@ -4,11 +4,11 @@
 * description: Learn about sprites, movement, and collisions in this skillmap.
 * primarycolor: #2EA9B0
 * secondarycolor: #F392BD
-* tertiarycolor: #83C252
+* tertiarycolor: #fdf3e0
 * highlightcolor: #FAED28
 * alternatesources: github:https://github.com/microsoft/pxt-arcade/docs/courses/csintro/blocks/unit-1/skillmap.md
 * bannerUrl: https://arcade.makecode.com/api/S01708-98615-82961-41216/thumb
-* backgroundurl: /static/skillmap/backgrounds/adventure-comp1.png
+* backgroundurl: https://github.com/kiki-lee/skillmap/blob/master/lab_bg.png?raw=true
 
 ## lab-01-01
 
