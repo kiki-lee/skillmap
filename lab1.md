@@ -11,8 +11,8 @@
 * backgroundurl: /static/skillmap/backgrounds/adventure-comp1.png
 
 ## lab-01-01
-* layout: manual
 
+* layout: manual
 * name: MakeCode Arcade scavenger hunt
 * description: Learn more about MakeCode Arcade with a scavenger hunt!
 
@@ -36,8 +36,8 @@
 * position: 1 -4
 
 ## lab-01-02-and-03
-* layout: manual
 
+* layout: manual
 * name: Sprites, sprites, and more sprites!
 * description: Learn about sprites, movement, and sprite kinds on this path.
 
@@ -52,7 +52,6 @@
 * position: 0 0
 
 ### lab-01-03
-* layout: manual
 
 * name: Lab 1.3 Moving sprites
 * description: Use the controller to move the hero sprite around the screen!
@@ -63,6 +62,7 @@
 
 ## lab-01-04-and-05
 
+* layout: manual
 * name: Eat it all! and Eat some more!
 * description: In these labs, we will write a game where the player must eat all the food
 which appears--while avoiding an enemy which bounces around the screen!
