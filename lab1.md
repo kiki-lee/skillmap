@@ -36,12 +36,12 @@
 * position: 1 -4
 
 ## lab-01-02-and-03
+* layout: manual
 
 * name: Sprites, sprites, and more sprites!
 * description: Learn about sprites, movement, and sprite kinds on this path.
 
 ### lab-01-02
-* layout: manual
 
 * name: Lab 1.2 Sprites in the corners
 * description: Learn to place sprites on the screen and work with different kinds of sprites.
@@ -85,7 +85,7 @@ which appears--while avoiding an enemy which bounces around the screen!
 * next: lab-01-04-part3
 * url: https://github.com/microsoft/pxt-arcade/docs/courses/csintro/blocks/unit-1/lab0104-part2.md
 * imageUrl: /static/skillmap/adventure/adventure1.gif
-* position: 1 4
+* position: 1 5
 
 ### lab-01-04-part3
 
@@ -95,7 +95,7 @@ which appears--while avoiding an enemy which bounces around the screen!
 * next: lab-01-04-finish
 * url: https://github.com/microsoft/pxt-arcade/docs/courses/csintro/blocks/unit-1/lab0104-part3.md
 * imageUrl: /static/skillmap/adventure/adventure1.gif
-* position: 2 4
+* position: 2 6
 
 ### lab-01-04-finish
 
@@ -103,7 +103,7 @@ which appears--while avoiding an enemy which bounces around the screen!
 * type: certificate
 * kind: completion
 * next: lab-01-05
-* position: 3 4
+* position: 3 7
 
 ### lab-01-05
 
@@ -112,4 +112,4 @@ which appears--while avoiding an enemy which bounces around the screen!
 * type: tutorial
 * url: https://github.com/microsoft/pxt-arcade/docs/courses/csintro/blocks/unit-1/lab0105.md
 * imageUrl: /static/skillmap/adventure/adventure1.gif
-* position: 4 4
+* position: 4 8
