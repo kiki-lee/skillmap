@@ -8,9 +8,10 @@
 * highlightcolor: #FAED28
 * alternatesources: github:https://github.com/microsoft/pxt-arcade/docs/courses/csintro/blocks/unit-1/skillmap.md
 * bannerUrl: https://arcade.makecode.com/api/S01708-98615-82961-41216/thumb
-* backgroundurl: /static/skillmap/backgrounds/adventure-comp.png
+* backgroundurl: /static/skillmap/backgrounds/adventure-comp1.png
 
 ## lab-01-01
+* layout: manual
 
 * name: MakeCode Arcade scavenger hunt
 * description: Learn more about MakeCode Arcade with a scavenger hunt!
@@ -40,6 +41,7 @@
 * description: Learn about sprites, movement, and sprite kinds on this path.
 
 ### lab-01-02
+* layout: manual
 
 * name: Lab 1.2 Sprites in the corners
 * description: Learn to place sprites on the screen and work with different kinds of sprites.
@@ -50,6 +52,7 @@
 * position: 0 0
 
 ### lab-01-03
+* layout: manual
 
 * name: Lab 1.3 Moving sprites
 * description: Use the controller to move the hero sprite around the screen!
