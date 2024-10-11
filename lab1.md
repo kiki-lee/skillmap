@@ -49,7 +49,7 @@
 * next: lab-01-03
 * url: https://github.com/microsoft/pxt-arcade/docs/courses/csintro/blocks/unit-1/lab0102
 * imageUrl: /static/skillmap/adventure/adventure1.gif
-* position: 0 3
+* position: 0 2
 
 ### lab-01-03
 
@@ -58,7 +58,7 @@
 * type: tutorial
 * url: https://github.com/microsoft/pxt-arcade/docs/courses/csintro/blocks/unit-1/lab0103
 * imageUrl: /static/skillmap/adventure/adventure1.gif
-* position: 1 3
+* position: 1 2
 
 ## lab-01-04-and-05
 
@@ -75,7 +75,7 @@ which appears--while avoiding an enemy which bounces around the screen!
 * next: lab-01-04-part2
 * url: https://github.com/microsoft/pxt-arcade/docs/courses/csintro/blocks/unit-1/lab0104-part1.md
 * imageUrl: /static/skillmap/adventure/adventure1.gif
-* position: 0 6
+* position: 0 4
 
 ### lab-01-04-part2
 
@@ -85,7 +85,7 @@ which appears--while avoiding an enemy which bounces around the screen!
 * next: lab-01-04-part3
 * url: https://github.com/microsoft/pxt-arcade/docs/courses/csintro/blocks/unit-1/lab0104-part2.md
 * imageUrl: /static/skillmap/adventure/adventure1.gif
-* position: 1 6
+* position: 1 4
 
 ### lab-01-04-part3
 
@@ -95,7 +95,7 @@ which appears--while avoiding an enemy which bounces around the screen!
 * next: lab-01-04-finish
 * url: https://github.com/microsoft/pxt-arcade/docs/courses/csintro/blocks/unit-1/lab0104-part3.md
 * imageUrl: /static/skillmap/adventure/adventure1.gif
-* position: 2 6
+* position: 2 4
 
 ### lab-01-04-finish
 
@@ -103,7 +103,7 @@ which appears--while avoiding an enemy which bounces around the screen!
 * type: certificate
 * kind: completion
 * next: lab-01-05
-* position: 3 6
+* position: 3 4
 
 ### lab-01-05
 
@@ -112,4 +112,4 @@ which appears--while avoiding an enemy which bounces around the screen!
 * type: tutorial
 * url: https://github.com/microsoft/pxt-arcade/docs/courses/csintro/blocks/unit-1/lab0105.md
 * imageUrl: /static/skillmap/adventure/adventure1.gif
-* position: 4 6
+* position: 4 4
