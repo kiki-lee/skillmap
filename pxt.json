@@ -23,7 +23,8 @@
         "class.md",
         "adventure.md",
         "shark.md",
-        "lab1.md"
+        "lab1.md",
+        "turkey.md"
     ],
     "testFiles": [
         "test.ts"
