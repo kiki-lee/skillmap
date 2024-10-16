@@ -20,7 +20,7 @@
 * name: Move the Turkey
 * type: tutorial
 * description: Create a turkey and help it move around the tilemap!
-* url: 31965-54336-08122-58762
+* url: 28164-27921-23930-62235
 * tags: easy, sprites, tiles
 * imageUrl: /static/skillmap/turkey/turkey1.gif
 * next: turkey2
