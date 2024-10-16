@@ -20,7 +20,7 @@
 * name: Move the Turkey
 * type: tutorial
 * description: Create a turkey and help it move around the tilemap!
-* url: https://arcade.makecode.com/#tutorial:31965-54336-08122-58762
+* url: 31965-54336-08122-58762
 * tags: easy, sprites, tiles
 * imageUrl: /static/skillmap/turkey/turkey1.gif
 * next: turkey2
@@ -30,7 +30,7 @@
 * name: Gather a Crowd
 * type: tutorial
 * description: Write the code that lets your turkey free its friends from their cages. But watch out!  You're sure to gather a crowd.
-* url: https://arcade.makecode.com/#tutorial:54088-28922-53565-72887
+* url: 54088-28922-53565-72887
 * tags: easy, tiles, events
 * imageUrl: /static/skillmap/turkey/turkey2.gif
 * next: turkey3
@@ -40,7 +40,7 @@
 * name: Win or Lose
 * type: tutorial
 * description: Set a timer and challenge yourself to free the turkeys and fly the coop as quickly as possible!
-* url: https://arcade.makecode.com/#tutorial:40712-60019-22972-42973
+* url: 40712-60019-22972-42973
 * tags: easy, overlap, timer
 * imageUrl: /static/skillmap/turkey/turkey3.gif
 * next: turkey-finish
