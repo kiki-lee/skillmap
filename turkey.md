@@ -30,7 +30,7 @@
 * name: Gather a Crowd
 * type: tutorial
 * description: Write the code that lets your turkey free its friends from their cages. But watch out!  You're sure to gather a crowd.
-* url: 54088-28922-53565-72887
+* url: 54251-66067-04095-98850
 * tags: easy, tiles, events
 * imageUrl: /static/skillmap/turkey/turkey2.gif
 * next: turkey3
