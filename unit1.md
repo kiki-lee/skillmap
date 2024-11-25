@@ -72,7 +72,7 @@ which appears--while avoiding an enemy which bounces around the screen!
 * description: Add food sprites to the screen at random locations
 * type: tutorial
 * next: lab-01-04-part2
-* url: /courses/csintro/blocks/unit-1/lab0104-part1.md
+* url: /courses/csintro/blocks/unit-1/lab0104-part1
 * imageUrl: https://arcade.makecode.com/api/S72191-59096-40476-83475/thumb
 * position: 0 2
 
@@ -82,7 +82,7 @@ which appears--while avoiding an enemy which bounces around the screen!
 * description: Add food sprites to the screen at random locations
 * type: tutorial
 * next: lab-01-04-part3
-* url: /courses/csintro/blocks/unit-1/lab0104-part2.md
+* url: /courses/csintro/blocks/unit-1/lab0104-part2
 * imageUrl: https://arcade.makecode.com/api/S72191-59096-40476-83475/thumb
 * position: 1 2
 
@@ -92,7 +92,7 @@ which appears--while avoiding an enemy which bounces around the screen!
 * description: Add food sprites to the screen at random locations
 * type: tutorial
 * next: lab-01-04-finish
-* url: /courses/csintro/blocks/unit-1/lab0104-part3.md
+* url: /courses/csintro/blocks/unit-1/lab0104-part3
 * imageUrl: https://arcade.makecode.com/api/S72191-59096-40476-83475/thumb
 * position: 2 2
 
@@ -111,6 +111,6 @@ which appears--while avoiding an enemy which bounces around the screen!
 * name: Lab 1.5 Eat some more!
 * description: Add food sprites to the screen at random locations
 * type: tutorial
-* url: /courses/csintro/blocks/unit-1/lab0105.md
+* url: /courses/csintro/blocks/unit-1/lab0105
 * imageUrl: https://arcade.makecode.com/api/S01708-98615-82961-41216/thumb
 * position: 4 2
