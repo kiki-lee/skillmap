@@ -25,13 +25,14 @@
         "shark.md",
         "lab1.md",
         "turkey.md",
-        "unit1.md"
+        "unit1.md",
+        "unit2.md"
     ],
     "testFiles": [
         "test.ts"
     ],
     "targetVersions": {
-        "target": "1.12.57",
+        "target": "1.12.58",
         "targetId": "arcade"
     },
     "supportedTargets": [
