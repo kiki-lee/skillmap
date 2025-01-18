@@ -17,7 +17,6 @@
 
 ## lab-02-01
 
-* layout: manual
 * name: Shooting gallery
 * description: Learn about event handlers and projectiles!
 
@@ -133,7 +132,6 @@
 
 ## lab-02-02
 
-* layout: manual
 * name: Introduction to variables
 * description: Learn a few ways to use variables!
 
@@ -162,7 +160,6 @@
 
 ## lab-02-03
 
-* layout: manual
 * name: Lab 2.3 Variables and math
 * description: Combine variables with math operations
 
@@ -181,7 +178,6 @@
 
 ## lab-02-04
 
-* layout: manual
 * name: Lab 2.4 Silly story time!
 * description: Use strings, splashes, and story telling techniques to tell a silly story!
 
