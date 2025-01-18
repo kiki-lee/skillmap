@@ -92,7 +92,7 @@
 * next: lab-02-06-part-2
 * url: /courses/csintro/blocks/unit-2/lab0206-part1
 * imageUrl: https://arcade.makecode.com/api/S84007-40614-44053-34591/thumb
-* position: 3 5
+* position: 3 6
 
 ### lab-02-06-part-2
 
@@ -102,7 +102,7 @@
 * next: lab-02-06-part-3
 * url: /courses/csintro/blocks/unit-2/lab0206-part2
 * imageUrl: https://arcade.makecode.com/api/S84007-40614-44053-34591/thumb
-* position: 4 5
+* position: 4 6
 
 ### lab-02-06-part-3
 
@@ -112,7 +112,7 @@
 * next: lab-02-06-part-4
 * url: /courses/csintro/blocks/unit-2/lab0206-part3
 * imageUrl: https://arcade.makecode.com/api/S84007-40614-44053-34591/thumb
-* position: 5 5
+* position: 5 6
 
 ### lab-02-06-part-4
 
@@ -121,7 +121,7 @@
 * type: tutorial
 * url: /courses/csintro/blocks/unit-2/lab0206-part4
 * imageUrl: https://arcade.makecode.com/api/S84007-40614-44053-34591/thumb
-* position: 6 5
+* position: 6 6
 
 
 
