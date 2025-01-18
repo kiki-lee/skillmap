@@ -144,6 +144,7 @@
 * next: lab-02-02-part-2
 * url: /courses/csintro/blocks/unit-2/lab0202-part1
 * imageUrl: https://arcade.makecode.com/api/S84007-40614-44053-34591/thumb
+* position: 0 -1
 
 ### lab-02-02-part-2
 
@@ -152,6 +153,7 @@
 * type: tutorial
 * url: /courses/csintro/blocks/unit-2/lab0202-part2
 * imageUrl: https://arcade.makecode.com/api/S84007-40614-44053-34591/thumb
+* position: 1 -1
 
 <!-- ****************************************** -->
 <!-- ****            Lab 2.3               **** -->
@@ -170,6 +172,7 @@
 * type: tutorial
 * url: /courses/csintro/blocks/unit-2/lab0203
 * imageUrl: https://arcade.makecode.com/api/S84007-40614-44053-34591/thumb
+* position: 0 -2
 
 <!-- ****************************************** -->
 <!-- ****            Lab 2.4               **** -->
@@ -188,6 +191,7 @@
 * type: tutorial
 * url: /courses/csintro/blocks/unit-2/lab0204
 * imageUrl: https://arcade.makecode.com/api/S84007-40614-44053-34591/thumb
+* position: 0 -3
 
 <!-- ****************************************** -->
 <!-- ****            Lab 2.5               **** -->
@@ -207,6 +211,7 @@
 * next: lab-02-05-part-2
 * url: /courses/csintro/blocks/unit-2/lab0205-part1
 * imageUrl: https://arcade.makecode.com/api/S84007-40614-44053-34591/thumb
+* position: 0 -4
 
 ### lab-02-05-part-2
 
@@ -216,6 +221,7 @@
 * next: lab-02-05-part-3
 * url: /courses/csintro/blocks/unit-2/lab0205-part2
 * imageUrl: https://arcade.makecode.com/api/S84007-40614-44053-34591/thumb
+* position: 1 -4
 
 ### lab-02-05-part-3
 
@@ -224,3 +230,4 @@
 * type: tutorial
 * url: /courses/csintro/blocks/unit-2/lab0205-part3
 * imageUrl: https://arcade.makecode.com/api/S84007-40614-44053-34591/thumb
+* position: 2 -4
