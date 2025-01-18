@@ -58,7 +58,7 @@
 * name: Lab 2.1 Part 4 Collision alert!
 * description: Lose a life when the player is struck by an enemy.
 * type: tutorial
-* next: lab-02-01-finish
+* next: lab-02-01-part-5, lab-02-01-finish
 * url: /courses/csintro/blocks/unit-2/lab0201-part4
 * imageUrl: https://arcade.makecode.com/api/S84007-40614-44053-34591/thumb
 * position: 3 0
@@ -68,7 +68,6 @@
 * name: End of Lab 2.1.
 * type: certificate
 * kind: completion
-* next: lab-02-01-part-5
 * imageUrl: https://arcade.makecode.com/api/S84007-40614-44053-34591/thumb
 * position: 4 0
 
@@ -80,7 +79,7 @@
 * next: lab-02-06-part-1
 * url: /courses/csintro/blocks/unit-2/lab0201-part5
 * imageUrl: https://arcade.makecode.com/api/S84007-40614-44053-34591/thumb
-* position: 5 0
+* position: 3 1
 
 
 <!-- ****          Lab 2.6            **** -->
@@ -93,7 +92,7 @@
 * next: lab-02-06-part-2
 * url: /courses/csintro/blocks/unit-2/lab0206-part1
 * imageUrl: https://arcade.makecode.com/api/S84007-40614-44053-34591/thumb
-* position: 5 5
+* position: 3 6
 
 ### lab-02-06-part-2
 
@@ -103,7 +102,7 @@
 * next: lab-02-06-part-3
 * url: /courses/csintro/blocks/unit-2/lab0206-part2
 * imageUrl: https://arcade.makecode.com/api/S84007-40614-44053-34591/thumb
-* position: 6 5
+* position: 4 6
 
 ### lab-02-06-part-3
 
@@ -113,7 +112,7 @@
 * next: lab-02-06-part-4
 * url: /courses/csintro/blocks/unit-2/lab0206-part3
 * imageUrl: https://arcade.makecode.com/api/S84007-40614-44053-34591/thumb
-* position: 7 5
+* position: 5 6
 
 ### lab-02-06-part-4
 
@@ -122,7 +121,7 @@
 * type: tutorial
 * url: /courses/csintro/blocks/unit-2/lab0206-part4
 * imageUrl: https://arcade.makecode.com/api/S84007-40614-44053-34591/thumb
-* position: 8 5
+* position: 6 6
 
 
 
@@ -144,7 +143,7 @@
 * next: lab-02-02-part-2
 * url: /courses/csintro/blocks/unit-2/lab0202-part1
 * imageUrl: https://arcade.makecode.com/api/S84007-40614-44053-34591/thumb
-* position: 0 -3
+* position: -3 -3
 
 ### lab-02-02-part-2
 
@@ -153,7 +152,7 @@
 * type: tutorial
 * url: /courses/csintro/blocks/unit-2/lab0202-part2
 * imageUrl: https://arcade.makecode.com/api/S84007-40614-44053-34591/thumb
-* position: 1 -3
+* position: -2 -3
 
 <!-- ****************************************** -->
 <!-- ****            Lab 2.3               **** -->
@@ -172,7 +171,7 @@
 * type: tutorial
 * url: /courses/csintro/blocks/unit-2/lab0203
 * imageUrl: https://arcade.makecode.com/api/S84007-40614-44053-34591/thumb
-* position: 0 -3
+* position: -3 -3
 
 <!-- ****************************************** -->
 <!-- ****            Lab 2.4               **** -->
@@ -191,7 +190,7 @@
 * type: tutorial
 * url: /courses/csintro/blocks/unit-2/lab0204
 * imageUrl: https://arcade.makecode.com/api/S84007-40614-44053-34591/thumb
-* position: 0 -3
+* position: -3 -3
 
 <!-- ****************************************** -->
 <!-- ****            Lab 2.5               **** -->
@@ -211,7 +210,7 @@
 * next: lab-02-05-part-2
 * url: /courses/csintro/blocks/unit-2/lab0205-part1
 * imageUrl: https://arcade.makecode.com/api/S84007-40614-44053-34591/thumb
-* position: 0 -3
+* position: -3 -3
 
 ### lab-02-05-part-2
 
@@ -221,7 +220,7 @@
 * next: lab-02-05-part-3
 * url: /courses/csintro/blocks/unit-2/lab0205-part2
 * imageUrl: https://arcade.makecode.com/api/S84007-40614-44053-34591/thumb
-* position: 1 -3
+* position: -2 -3
 
 ### lab-02-05-part-3
 
@@ -230,4 +229,4 @@
 * type: tutorial
 * url: /courses/csintro/blocks/unit-2/lab0205-part3
 * imageUrl: https://arcade.makecode.com/api/S84007-40614-44053-34591/thumb
-* position: 2 -3
+* position: -1 -3
