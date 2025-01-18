@@ -8,6 +8,7 @@
 * highlightcolor: #FAED28
 * bannerUrl: https://arcade.makecode.com/api/S01708-98615-82961-41216/thumb
 * backgroundurl: /static/skillmap/csintro/lab_bg.png
+* layout: manual
 
 
 <!-- ****************************************** -->
