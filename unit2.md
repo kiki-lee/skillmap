@@ -77,7 +77,7 @@
 * name: Lab 2.1 Part 5 BONUS -- Pew pew!
 * description: Add some sound effects!
 * type: tutorial
-* next: lab-02-01-bonus-finish
+* next: lab-02-06-part-1
 * url: /courses/csintro/blocks/unit-2/lab0201-part5
 * imageUrl: https://arcade.makecode.com/api/S84007-40614-44053-34591/thumb
 * position: 5 0
