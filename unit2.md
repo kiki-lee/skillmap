@@ -58,7 +58,7 @@
 * name: Lab 2.1 Part 4 Collision alert!
 * description: Lose a life when the player is struck by an enemy.
 * type: tutorial
-* next: lab-02-01-part-5, lab-02-01-finish
+* next: lab-02-06-part-1, lab-02-01-finish
 * url: /courses/csintro/blocks/unit-2/lab0201-part4
 * imageUrl: https://arcade.makecode.com/api/S84007-40614-44053-34591/thumb
 * position: 3 0
@@ -68,6 +68,7 @@
 * name: End of Lab 2.1.
 * type: certificate
 * kind: completion
+* next: lab-02-01-part-5
 * imageUrl: https://arcade.makecode.com/api/S84007-40614-44053-34591/thumb
 * position: 4 0
 
@@ -76,10 +77,9 @@
 * name: Lab 2.1 Part 5 BONUS -- Pew pew!
 * description: Add some sound effects!
 * type: tutorial
-* next: lab-02-06-part-1
 * url: /courses/csintro/blocks/unit-2/lab0201-part5
 * imageUrl: https://arcade.makecode.com/api/S84007-40614-44053-34591/thumb
-* position: 3 1
+* position: 5 0
 
 
 <!-- ****          Lab 2.6            **** -->
@@ -92,7 +92,7 @@
 * next: lab-02-06-part-2
 * url: /courses/csintro/blocks/unit-2/lab0206-part1
 * imageUrl: https://arcade.makecode.com/api/S84007-40614-44053-34591/thumb
-* position: 3 6
+* position: 3 5
 
 ### lab-02-06-part-2
 
@@ -102,7 +102,7 @@
 * next: lab-02-06-part-3
 * url: /courses/csintro/blocks/unit-2/lab0206-part2
 * imageUrl: https://arcade.makecode.com/api/S84007-40614-44053-34591/thumb
-* position: 4 6
+* position: 4 5
 
 ### lab-02-06-part-3
 
@@ -112,7 +112,7 @@
 * next: lab-02-06-part-4
 * url: /courses/csintro/blocks/unit-2/lab0206-part3
 * imageUrl: https://arcade.makecode.com/api/S84007-40614-44053-34591/thumb
-* position: 5 6
+* position: 5 5
 
 ### lab-02-06-part-4
 
@@ -121,7 +121,7 @@
 * type: tutorial
 * url: /courses/csintro/blocks/unit-2/lab0206-part4
 * imageUrl: https://arcade.makecode.com/api/S84007-40614-44053-34591/thumb
-* position: 6 6
+* position: 6 5
 
 
 
