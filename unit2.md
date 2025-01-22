@@ -7,7 +7,7 @@
 * tertiarycolor: #000000
 * highlightcolor: #FAED28
 * bannerUrl: https://arcade.makecode.com/api/S01708-98615-82961-41216/thumb
-* backgroundurl: https://github.com/kiki-lee/skillmap/blob/master/lab2bg1e.png?raw=true
+* backgroundurl: https://github.com/kiki-lee/skillmap/blob/master/lab2bg.png?raw=true
 <!-- * backgroundurl: /static/skillmap/csintro/lab_bg.png -->
 
 
@@ -18,7 +18,7 @@
 ## lab-02-01
 
 * layout: manual
-* name: Aiming gallery
+* name: Aiming Gallery
 * description: Learn about event handlers and projectiles!
 
 
@@ -70,7 +70,11 @@
 * type: certificate
 * kind: completion
 * next: lab-02-01-part-5
-* imageUrl: https://arcade.makecode.com/api/S84007-40614-44053-34591/thumb
+* imageUrl: /static/skillmap/certificates/balloon-cert.png
+* rewards:
+    * certificate:
+        * url: /static/skillmap/certificates/balloon-cert.pdf
+        * preview: /static/skillmap/certificates/balloon-cert.png
 * position: 4 1
 
 ### lab-02-01-part-5
@@ -120,9 +124,22 @@
 * name: Lab 2.6 Part 4 Starting difficulty
 * description: Allow your player to select a difficlty!
 * type: tutorial
+* next: lab-02-06-finish
 * url: /courses/csintro/blocks/unit-2/lab0206-part4
 * imageUrl: https://arcade.makecode.com/api/S84007-40614-44053-34591/thumb
 * position: 6 7
+
+### lab-02-06-finish
+
+* name: End of Lab 2.6
+* type: certificate
+* kind: completion
+* imageUrl: /static/skillmap/certificates/balloon-cert.png
+* rewards:
+    * certificate:
+        * url: /static/skillmap/certificates/balloon-cert.pdf
+        * preview: /static/skillmap/certificates/balloon-cert.png
+* position: 6 6
 
 
 
