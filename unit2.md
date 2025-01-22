@@ -7,7 +7,7 @@
 * tertiarycolor: #000000
 * highlightcolor: #FAED28
 * bannerUrl: https://arcade.makecode.com/api/S01708-98615-82961-41216/thumb
-* backgroundurl: https://github.com/kiki-lee/skillmap/blob/master/lab2bg1c.png?raw=true
+* backgroundurl: https://github.com/kiki-lee/skillmap/blob/master/lab2bg1d.png?raw=true
 <!-- * backgroundurl: /static/skillmap/csintro/lab_bg.png -->
 
 
