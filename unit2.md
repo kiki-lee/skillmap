@@ -2,10 +2,10 @@
 
 * name: Unit 2 Skillmap
 * description: Learn about interactions between sprites and conditional statements.
-* primarycolor: #2EA9B0
-* secondarycolor: #F392BD
-* tertiarycolor: #000000
-* highlightcolor: #FAED28
+* primarycolor: #2EA9B0 <!-- Path & Locked Nodes -->
+* secondarycolor: #F392BD <!-- Unlocked Nodes -->
+* tertiarycolor: #4a4a4a <!-- Background -->
+* highlightcolor: #FAED28 <!-- Border -->
 * bannerUrl: https://arcade.makecode.com/api/S01708-98615-82961-41216/thumb
 * backgroundurl: https://github.com/kiki-lee/skillmap/blob/master/lab2bg.png?raw=true
 <!-- * backgroundurl: /static/skillmap/csintro/lab_bg.png -->
