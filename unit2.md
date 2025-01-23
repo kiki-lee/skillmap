@@ -2,13 +2,12 @@
 
 * name: Unit 2 Skillmap
 * description: Learn about interactions between sprites and conditional statements.
-* primarycolor: #2EA9B0 <!-- Path & Locked Nodes -->
-* secondarycolor: #F392BD <!-- Unlocked Nodes -->
-* tertiarycolor: #4a4a4a <!-- Background -->
-* highlightcolor: #FAED28 <!-- Border -->
+* primarycolor: #2EA9B0  
+* secondarycolor: #F392BD 
+* tertiarycolor: #4a4a4a 
+* highlightcolor: #FAED28 
 * bannerUrl: https://arcade.makecode.com/api/S01708-98615-82961-41216/thumb
-* backgroundurl: https://github.com/kiki-lee/skillmap/blob/master/lab2bg.png?raw=true
-<!-- * backgroundurl: /static/skillmap/csintro/lab_bg.png -->
+* backgroundurl: https://github.com/kiki-lee/skillmap/blob/master/lab2bg.png?raw=true02140
 
 
 <!-- ****************************************** -->
@@ -72,10 +71,7 @@
 * next: lab-02-01-part-5
 * imageUrl: /static/skillmap/certificates/balloon-cert.png
 * position: 4 1
-* rewards:
-    * certificate:
-        * url: /static/skillmap/certificates/balloon-cert.pdf
-        * preview: /static/skillmap/certificates/balloon-cert.png
+
 
 ### lab-02-01-part-5
 
@@ -134,12 +130,10 @@
 * name: End of Lab 2.6
 * type: certificate
 * kind: completion
-* imageUrl: /static/skillmap/certificates/balloon-cert.png
+* url: /static/skillmap/certificates/lab-2-cert.pdf
+* imageUrl: /static/skillmap/certificates/lab-2-cert.jpg
 * position: 6 6
-* rewards:
-    * certificate:
-        * url: /static/skillmap/certificates/balloon-cert.pdf
-        * preview: /static/skillmap/certificates/balloon-cert.png
+
 
 
 
