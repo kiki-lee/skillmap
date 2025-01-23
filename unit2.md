@@ -66,16 +66,16 @@
 
 ### lab-02-01-finish
 
-* name: End of Lab 2.1.
+* name: End of Lab 2.1
 * type: certificate
 * kind: completion
 * next: lab-02-01-part-5
 * imageUrl: /static/skillmap/certificates/balloon-cert.png
+* position: 4 1
 * rewards:
     * certificate:
         * url: /static/skillmap/certificates/balloon-cert.pdf
         * preview: /static/skillmap/certificates/balloon-cert.png
-* position: 4 1
 
 ### lab-02-01-part-5
 
