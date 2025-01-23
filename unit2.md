@@ -60,7 +60,7 @@
 * type: tutorial
 * next: lab-02-06-part-1, lab-02-01-finish
 * url: /courses/csintro/blocks/unit-2/lab0201-part4
-* imageUrl: https://arcade.makecode.com/api/S84007-40614-44053-34591/thumb
+* imageUrl: https://arcade.makecode.com/api/_WcWTjhAY82v4/thumb
 * position: 3 1
 
 ### lab-02-01-finish
@@ -69,7 +69,7 @@
 * type: certificate
 * kind: completion
 * next: lab-02-01-part-5
-* imageUrl: /static/skillmap/certificates/balloon-cert.png
+* imageUrl: /static/courses/csintro/lab2-1-cert.png
 * position: 4 1
 
 
