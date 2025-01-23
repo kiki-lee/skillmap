@@ -135,11 +135,11 @@
 * type: certificate
 * kind: completion
 * imageUrl: /static/skillmap/certificates/balloon-cert.png
+* position: 6 6
 * rewards:
     * certificate:
         * url: /static/skillmap/certificates/balloon-cert.pdf
         * preview: /static/skillmap/certificates/balloon-cert.png
-* position: 6 6
 
 
 
