@@ -6,7 +6,7 @@
 * secondarycolor: #F392BD 
 * tertiarycolor: #4a4a4a 
 * highlightcolor: #FAED28 
-* bannerUrl: https://arcade.makecode.com/api/S01708-98615-82961-41216/thumb
+* bannerUrl: https://arcade.makecode.com/api/_8F36tk7VXgAm/thumb
 * backgroundurl: https://github.com/kiki-lee/skillmap/blob/master/lab2bg.png?raw=true02140
 
 
@@ -112,7 +112,7 @@
 * type: tutorial
 * next: lab-02-06-part-4
 * url: /courses/csintro/blocks/unit-2/lab0206-part3
-* imageUrl: https://arcade.makecode.com/api/S84007-40614-44053-34591/thumb
+* imageUrl: https://arcade.makecode.com/api/_1CrgWY7HJMmc/thumb
 * position: 5 7
 
 ### lab-02-06-part-4
