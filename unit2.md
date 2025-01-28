@@ -30,7 +30,7 @@
 * type: tutorial
 * next: lab-02-01-part-2
 * url: /courses/csintro/blocks/unit-2/lab0201-part1
-* imageUrl: https://arcade.makecode.com/api/S84007-40614-44053-34591/thumb
+* imageUrl: /static/courses/csintro/Unit2LabThumbnail-2-1-1.png
 * position: 0 1
 
 ### lab-02-01-part-2
@@ -40,7 +40,7 @@
 * type: tutorial
 * next: lab-02-01-part-3
 * url: /courses/csintro/blocks/unit-2/lab0201-part2
-* imageUrl: https://arcade.makecode.com/api/S84007-40614-44053-34591/thumb
+* imageUrl: /static/courses/csintro/Unit2LabThumbnail-2-1-2.png
 * position: 1 1
 
 ### lab-02-01-part-3
@@ -50,7 +50,7 @@
 * type: tutorial
 * next: lab-02-01-part-4
 * url: /courses/csintro/blocks/unit-2/lab0201-part3
-* imageUrl: https://arcade.makecode.com/api/S84007-40614-44053-34591/thumb
+* imageUrl: /static/courses/csintro/Unit2LabThumbnail-2-1-3.png
 * position: 2 1
 
 ### lab-02-01-part-4
@@ -60,7 +60,7 @@
 * type: tutorial
 * next: lab-02-06-part-1, lab-02-01-finish
 * url: /courses/csintro/blocks/unit-2/lab0201-part4
-* imageUrl: https://arcade.makecode.com/api/_WcWTjhAY82v4/thumb
+* imageUrl: /static/courses/csintro/Unit2LabThumbnail-2-1-4.png
 * position: 3 1
 
 ### lab-02-01-finish
@@ -70,6 +70,7 @@
 * kind: completion
 * next: lab-02-01-part-5
 * imageUrl: /static/courses/csintro/lab2-1-cert.png
+* url: /static/courses/csintro/lab2-1-cert.png
 * position: 4 1
 
 
@@ -79,7 +80,7 @@
 * description: Add some sound effects!
 * type: tutorial
 * url: /courses/csintro/blocks/unit-2/lab0201-part5
-* imageUrl: https://arcade.makecode.com/api/S84007-40614-44053-34591/thumb
+* imageUrl: /static/courses/csintro/Unit2LabThumbnail-2-1-5.png
 * position: 5 1
 
 
@@ -92,7 +93,7 @@
 * type: tutorial
 * next: lab-02-06-part-2
 * url: /courses/csintro/blocks/unit-2/lab0206-part1
-* imageUrl: https://arcade.makecode.com/api/S84007-40614-44053-34591/thumb
+* imageUrl: /static/courses/csintro/Unit2LabThumbnail-2-6-1.png
 * position: 3 7
 
 ### lab-02-06-part-2
@@ -102,7 +103,7 @@
 * type: tutorial
 * next: lab-02-06-part-3
 * url: /courses/csintro/blocks/unit-2/lab0206-part2
-* imageUrl: https://arcade.makecode.com/api/S84007-40614-44053-34591/thumb
+* imageUrl: /static/courses/csintro/Unit2LabThumbnail-2-6-2.png
 * position: 4 7
 
 ### lab-02-06-part-3
@@ -112,7 +113,7 @@
 * type: tutorial
 * next: lab-02-06-part-4
 * url: /courses/csintro/blocks/unit-2/lab0206-part3
-* imageUrl: https://arcade.makecode.com/api/_1CrgWY7HJMmc/thumb
+* imageUrl: /static/courses/csintro/Unit2LabThumbnail-2-6-3.png
 * position: 5 7
 
 ### lab-02-06-part-4
@@ -122,7 +123,7 @@
 * type: tutorial
 * next: lab-02-06-finish
 * url: /courses/csintro/blocks/unit-2/lab0206-part4
-* imageUrl: https://arcade.makecode.com/api/S84007-40614-44053-34591/thumb
+* imageUrl: /static/courses/csintro/Unit2LabThumbnail-2-6-4.png
 * position: 6 7
 
 ### lab-02-06-finish
@@ -154,7 +155,7 @@
 * type: tutorial
 * next: lab-02-02-part-2
 * url: /courses/csintro/blocks/unit-2/lab0202-part1
-* imageUrl: https://arcade.makecode.com/api/S84007-40614-44053-34591/thumb
+* imageUrl: https://arcade.makecode.com/api/_RdC9TMWEuKR1/thumb
 * position: 0 -5
 
 ### lab-02-02-part-2
@@ -163,7 +164,7 @@
 * description: Use a variable to keep track of the number of sprites on the screen.
 * type: tutorial
 * url: /courses/csintro/blocks/unit-2/lab0202-part2
-* imageUrl: https://arcade.makecode.com/api/S84007-40614-44053-34591/thumb
+* imageUrl: https://arcade.makecode.com/api/_LoRf3w2ruPUc/thumb
 * position: 1 -5
 
 <!-- ****************************************** -->
@@ -182,7 +183,7 @@
 * description: Combine variables with math operations
 * type: tutorial
 * url: /courses/csintro/blocks/unit-2/lab0203
-* imageUrl: https://arcade.makecode.com/api/S84007-40614-44053-34591/thumb
+* imageUrl: https://arcade.makecode.com/api/_6rp7vgR10M1P/thumb
 * position: 0 -5
 
 <!-- ****************************************** -->
@@ -201,7 +202,7 @@
 * description: Use strings, splashes, and story telling techniques to tell a silly story!
 * type: tutorial
 * url: /courses/csintro/blocks/unit-2/lab0204
-* imageUrl: https://arcade.makecode.com/api/S84007-40614-44053-34591/thumb
+* imageUrl: https://arcade.makecode.com/api/_6YYL5gDzd48J/thumb
 * position: 0 -5
 
 <!-- ****************************************** -->
