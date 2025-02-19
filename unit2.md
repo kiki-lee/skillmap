@@ -25,7 +25,7 @@
 
 ### lab-02-01-part-1
 
-* name: Lab 2.1 Part 1 - Fire Away!
+* name: Lab 2.1 Part 1 / Fire Away!
 * description: Create your hero sprite and fire projectiles.
 * type: tutorial
 * next: lab-02-01-part-2
@@ -35,7 +35,7 @@
 
 ### lab-02-01-part-2
 
-* name: Lab 2.1 Part 2 - Here Come the Enemies!
+* name: Lab 2.1 Part 2 / Here Come the Enemies!
 * description: Add enemies to your project.
 * type: tutorial
 * next: lab-02-01-part-3
