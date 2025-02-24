@@ -26,7 +26,8 @@
         "lab1.md",
         "turkey.md",
         "unit1.md",
-        "unit2.md"
+        "unit2.md",
+        "unit3.md"
     ],
     "testFiles": [
         "test.ts"
