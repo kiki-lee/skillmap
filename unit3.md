@@ -2,11 +2,12 @@
 
 * name: Unit 3 Skillmap
 * description: Learn about loops, arrays, and animations!
-* primarycolor: #2EA9B0
+* primarycolor: #897894
 * secondarycolor: #F392BD
-* tertiarycolor: #83C252
+* tertiarycolor: #88f2ff
 * highlightcolor: #FAED28
 * bannerUrl: https://arcade.makecode.com/api/_d1DiUyMim6M6/thumb
+* backgroundurl: https://github.com/kiki-lee/skillmap/blob/master/lab3bg.gif?raw=true
 
 ## lab-03-01
 
