@@ -6,6 +6,7 @@
 * secondarycolor: #F392BD
 * tertiarycolor: #83C252
 * highlightcolor: #FAED28
+* bannerUrl: https://arcade.makecode.com/api/_d1DiUyMim6M6/thumb
 
 ## lab-03-01
 
