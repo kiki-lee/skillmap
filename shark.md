@@ -77,7 +77,6 @@
 * kind: completion
 * type: certificate
 * imageUrl: /static/skillmap/certificates/shark-cert.png
-* url: /static/skillmap/certificates/shark-cert.pdf
 * position: 3 0
 * actions:
     * map: [Try Jungle Jump](/skillmap/jungle)
